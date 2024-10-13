@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Config>
+  <reachAllApplicationPath>c:\customer configs\cisi</reachAllApplicationPath>
+  <ourHomePage>http://localHost/ReachAllWebInterface/ReachAllWebInterface.aspx</ourHomePage>
+  <standAloneMode>True</standAloneMode>
+  <hotelBillingMode>False</hotelBillingMode>
+</Config>

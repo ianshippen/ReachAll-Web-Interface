@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Config>
+  <infoLogEnable>false</infoLogEnable>
+  <sqlLogEnable>false</sqlLogEnable>
+  <commandStringLogEnable>true</commandStringLogEnable>
+  <responseStringLogEnable>false</responseStringLogEnable>
+  <multisiteEnable>False</multisiteEnable>
+  <useNewEngine>True</useNewEngine>
+</Config>

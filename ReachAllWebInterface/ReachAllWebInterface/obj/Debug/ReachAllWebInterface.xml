@@ -1,0 +1,969 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+ReachAllWebInterface
+</name>
+</assembly>
+<members>
+<member name="F:ReachAllWebInterface._Default.styleLiteral">
+	<summary>
+styleLiteral control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ReachAllWebInterface._Default.styleLiteral1">
+	<summary>
+styleLiteral1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ReachAllWebInterface._Default.myBody">
+	<summary>
+myBody control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ReachAllWebInterface._Default.Literal1">
+	<summary>
+Literal1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ReachAllWebInterface._Default.form1">
+	<summary>
+form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ReachAllWebInterface._Default.loginPanel">
+	<summary>
+loginPanel control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ReachAllWebInterface._Default.f_userName">
+	<summary>
+f_userName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ReachAllWebInterface._Default.f_password">
+	<summary>
+f_password control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ReachAllWebInterface._Default.loginButton">
+	<summary>
+loginButton control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ReachAllWebInterface._Default.changePasswordButton">
+	<summary>
+changePasswordButton control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ReachAllWebInterface._Default.cpRow_1">
+	<summary>
+cpRow_1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ReachAllWebInterface._Default.newPasswordTextBox">
+	<summary>
+newPasswordTextBox control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ReachAllWebInterface._Default.cpRow_2">
+	<summary>
+cpRow_2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ReachAllWebInterface._Default.newPasswordAgainTextBox">
+	<summary>
+newPasswordAgainTextBox control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ReachAllWebInterface._Default.cpRow_3">
+	<summary>
+cpRow_3 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ReachAllWebInterface._Default.confirmChangePasswordButton">
+	<summary>
+confirmChangePasswordButton control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ReachAllWebInterface._Default.changePasswordResponseLegacy">
+	<summary>
+changePasswordResponseLegacy control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ReachAllWebInterface._Default.loginPanelNewInterface">
+	<summary>
+loginPanelNewInterface control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ReachAllWebInterface._Default.userNameNewInterface">
+	<summary>
+userNameNewInterface control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ReachAllWebInterface._Default.passwordNewInterface">
+	<summary>
+passwordNewInterface control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ReachAllWebInterface._Default.loginButtonNewInterface">
+	<summary>
+loginButtonNewInterface control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ReachAllWebInterface._Default.changePasswordButtonNewInterface">
+	<summary>
+changePasswordButtonNewInterface control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ReachAllWebInterface._Default.changePasswordResponseNewInterface">
+	<summary>
+changePasswordResponseNewInterface control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ReachAllWebInterface._Default.changePasswordPanelNewInterface">
+	<summary>
+changePasswordPanelNewInterface control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ReachAllWebInterface._Default.newPasswordTextBoxNewInterface">
+	<summary>
+newPasswordTextBoxNewInterface control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ReachAllWebInterface._Default.newPasswordAgainTextBoxNewInterface">
+	<summary>
+newPasswordAgainTextBoxNewInterface control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ReachAllWebInterface._Default.confirmChangePasswordButtonNewInterface">
+	<summary>
+confirmChangePasswordButtonNewInterface control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ReachAllWebInterface._Default.loginPanelBS">
+	<summary>
+loginPanelBS control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ReachAllWebInterface._Default.f_bs_userName">
+	<summary>
+f_bs_userName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ReachAllWebInterface._Default.userNameBS">
+	<summary>
+userNameBS control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ReachAllWebInterface._Default.f_bs_password">
+	<summary>
+f_bs_password control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ReachAllWebInterface._Default.passwordBS">
+	<summary>
+passwordBS control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ReachAllWebInterface._Default.Button1">
+	<summary>
+Button1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ReachAllWebInterface._Default.registerButton">
+	<summary>
+registerButton control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ReachAllWebInterface._Default.registerPanel">
+	<summary>
+registerPanel control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ReachAllWebInterface._Default.responseTable">
+	<summary>
+responseTable control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ReachAllWebInterface._Default.changePasswordResponse">
+	<summary>
+changePasswordResponse control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ReachAllWebInterface._Default.myPanel">
+	<summary>
+myPanel control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ReachAllWebInterface._Default.myWidth">
+	<summary>
+myWidth control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ReachAllWebInterface._Default.legacyActionPanel">
+	<summary>
+legacyActionPanel control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ReachAllWebInterface._Default.downloadButton">
+	<summary>
+downloadButton control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ReachAllWebInterface._Default.ddDownLoadButton">
+	<summary>
+ddDownLoadButton control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ReachAllWebInterface._Default.csvDownLoadButton">
+	<summary>
+csvDownLoadButton control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ReachAllWebInterface._Default.ddCSVDownLoadButton">
+	<summary>
+ddCSVDownLoadButton control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ReachAllWebInterface._Default.runReportButton">
+	<summary>
+runReportButton control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ReachAllWebInterface._Default.doneButtonPlaceHolder">
+	<summary>
+doneButtonPlaceHolder control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ReachAllWebInterface._Default.doneButton">
+	<summary>
+doneButton control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ReachAllWebInterface._Default.legacyReportSelectionPanel">
+	<summary>
+legacyReportSelectionPanel control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ReachAllWebInterface._Default.timeSpanDropDownList">
+	<summary>
+timeSpanDropDownList control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ReachAllWebInterface._Default.ignoreTimeCheckBox">
+	<summary>
+ignoreTimeCheckBox control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ReachAllWebInterface._Default.label1">
+	<summary>
+label1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ReachAllWebInterface._Default.startTimeDropDownList">
+	<summary>
+startTimeDropDownList control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ReachAllWebInterface._Default.label2">
+	<summary>
+label2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ReachAllWebInterface._Default.endTimeDropDownList">
+	<summary>
+endTimeDropDownList control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ReachAllWebInterface._Default.calendar1">
+	<summary>
+calendar1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ReachAllWebInterface._Default.calendar2">
+	<summary>
+calendar2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ReachAllWebInterface._Default.myTextBox">
+	<summary>
+myTextBox control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ReachAllWebInterface._Default.myLabel">
+	<summary>
+myLabel control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ReachAllWebInterface._Default.radioList1">
+	<summary>
+radioList1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ReachAllWebInterface._Default.clearSelectionButton">
+	<summary>
+clearSelectionButton control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ReachAllWebInterface._Default.groupNameListBox">
+	<summary>
+groupNameListBox control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ReachAllWebInterface._Default.selectedUsersListBox">
+	<summary>
+selectedUsersListBox control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ReachAllWebInterface._Default.typeOfReportLabel">
+	<summary>
+typeOfReportLabel control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ReachAllWebInterface._Default.typeOfReportListBox">
+	<summary>
+typeOfReportListBox control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ReachAllWebInterface._Default.newInterfaceActionPanel">
+	<summary>
+newInterfaceActionPanel control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ReachAllWebInterface._Default.newInterfaceDownloadButton">
+	<summary>
+newInterfaceDownloadButton control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ReachAllWebInterface._Default.newInterfaceDDDownloadButton">
+	<summary>
+newInterfaceDDDownloadButton control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ReachAllWebInterface._Default.newInterfaceCSVDownloadButton">
+	<summary>
+newInterfaceCSVDownloadButton control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ReachAllWebInterface._Default.newInterfaceDDCSVDownloadButton">
+	<summary>
+newInterfaceDDCSVDownloadButton control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ReachAllWebInterface._Default.runReportButtonnewInterface">
+	<summary>
+runReportButtonnewInterface control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ReachAllWebInterface._Default.newInterfaceReportSelectionPanel">
+	<summary>
+newInterfaceReportSelectionPanel control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ReachAllWebInterface._Default.timeSpanNewInterfaceDropDownList">
+	<summary>
+timeSpanNewInterfaceDropDownList control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ReachAllWebInterface._Default.ignoreTimeNewInterfaceCheckBox">
+	<summary>
+ignoreTimeNewInterfaceCheckBox control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ReachAllWebInterface._Default.startTimeNewInterfaceLabel">
+	<summary>
+startTimeNewInterfaceLabel control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ReachAllWebInterface._Default.startTimeNewInterfaceDropDownList">
+	<summary>
+startTimeNewInterfaceDropDownList control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ReachAllWebInterface._Default.endTimeNewInterfaceLabel">
+	<summary>
+endTimeNewInterfaceLabel control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ReachAllWebInterface._Default.endTimeNewInterfaceDropDownList">
+	<summary>
+endTimeNewInterfaceDropDownList control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ReachAllWebInterface._Default.calendar3">
+	<summary>
+calendar3 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ReachAllWebInterface._Default.calendar4">
+	<summary>
+calendar4 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ReachAllWebInterface._Default.clearSelectionButtonNewInterface">
+	<summary>
+clearSelectionButtonNewInterface control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ReachAllWebInterface._Default.RadioButtonList1">
+	<summary>
+RadioButtonList1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ReachAllWebInterface._Default.groupNameNewInterfaceListBox">
+	<summary>
+groupNameNewInterfaceListBox control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ReachAllWebInterface._Default.typeOfReportNewInterfaceListBox">
+	<summary>
+typeOfReportNewInterfaceListBox control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ReachAllWebInterface._Default.selectedUsersNewInterfaceListBox">
+	<summary>
+selectedUsersNewInterfaceListBox control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ReachAllWebInterface._Default.actionPanelBS">
+	<summary>
+actionPanelBS control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ReachAllWebInterface._Default.actionDownloadButton">
+	<summary>
+actionDownloadButton control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ReachAllWebInterface._Default.actionCSVDownloadButton">
+	<summary>
+actionCSVDownloadButton control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ReachAllWebInterface._Default.ddActionPanel">
+	<summary>
+ddActionPanel control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ReachAllWebInterface._Default.ddActionDownloadButton">
+	<summary>
+ddActionDownloadButton control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ReachAllWebInterface._Default.ddActionCSVDownloadButton">
+	<summary>
+ddActionCSVDownloadButton control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ReachAllWebInterface._Default.searchPanel">
+	<summary>
+searchPanel control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ReachAllWebInterface._Default.f_startDate">
+	<summary>
+f_startDate control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ReachAllWebInterface._Default.f_endDate">
+	<summary>
+f_endDate control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ReachAllWebInterface._Default.Button2">
+	<summary>
+Button2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ReachAllWebInterface._Default.Button3">
+	<summary>
+Button3 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ReachAllWebInterface._Default.Button4">
+	<summary>
+Button4 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ReachAllWebInterface._Default.bs_calendar1">
+	<summary>
+bs_calendar1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ReachAllWebInterface._Default.bs_calendar2">
+	<summary>
+bs_calendar2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ReachAllWebInterface._Default.startTime">
+	<summary>
+startTime control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ReachAllWebInterface._Default.timeModeDropDownList">
+	<summary>
+timeModeDropDownList control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ReachAllWebInterface._Default.logoutButton">
+	<summary>
+logoutButton control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ReachAllWebInterface._Default.endTime">
+	<summary>
+endTime control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ReachAllWebInterface._Default.sortExtensionsBy">
+	<summary>
+sortExtensionsBy control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ReachAllWebInterface._Default.Button5">
+	<summary>
+Button5 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ReachAllWebInterface._Default.timeSpan">
+	<summary>
+timeSpan control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ReachAllWebInterface._Default.groupName">
+	<summary>
+groupName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ReachAllWebInterface._Default.reportType">
+	<summary>
+reportType control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ReachAllWebInterface._Default.reportedExtensions">
+	<summary>
+reportedExtensions control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ReachAllWebInterface._Default.fileUpload">
+	<summary>
+fileUpload control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ReachAllWebInterface._Default.uploadButton">
+	<summary>
+uploadButton control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ReachAllWebInterface._Default.cogs">
+	<summary>
+cogs control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ReachAllWebInterface._Default.logLiteral">
+	<summary>
+logLiteral control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ReachAllWebInterface._Default.myLiteral">
+	<summary>
+myLiteral control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ReachAllWebInterface._Default.reportPanel">
+	<summary>
+reportPanel control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ReachAllWebInterface._Default.Literal2">
+	<summary>
+Literal2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="P:ReachAllWebInterface.My.Resources.Resource1.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:ReachAllWebInterface.My.Resources.Resource1.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:ReachAllWebInterface.My.Resources.Resource1">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="P:ReachAllWebInterface.My.MyWebExtension.Computer">
+	<summary>
+ Returns information about the host computer.
+ </summary>
+</member><member name="P:ReachAllWebInterface.My.MyWebExtension.User">
+	<summary>
+ Returns information for the current Web user.
+ </summary>
+</member><member name="P:ReachAllWebInterface.My.MyWebExtension.Request">
+	<summary>
+ Returns Request object.
+ </summary>
+</member><member name="P:ReachAllWebInterface.My.MyWebExtension.Response">
+	<summary>
+ Returns Response object.
+ </summary>
+</member><member name="P:ReachAllWebInterface.My.MyWebExtension.Log">
+	<summary>
+ Returns the Asp log object.
+ </summary>
+</member><member name="T:ReachAllWebInterface.My.MyWebExtension">
+	<summary>
+ Module used to define the properties that are available in the My Namespace for Web projects.
+ </summary>
+	<remarks></remarks>
+</member>
+</members>
+</doc>

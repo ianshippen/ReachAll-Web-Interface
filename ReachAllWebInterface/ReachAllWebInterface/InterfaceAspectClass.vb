@@ -1,0 +1,36 @@
+﻿Public Class InterfaceAspectClass
+    Public startDateCalendar As Calendar = Nothing
+    Public endDateCalendar As Calendar = Nothing
+    Public ignoreTimeCheckbox As CheckBox = Nothing
+    Public startTimeDropDownList As DropDownList = Nothing
+    Public endTimeDropDownList As DropDownList = Nothing
+    Public startTimeLabel As Label = Nothing
+    Public endTimeLabel As Label = Nothing
+    Public timeSpanDropDownList As DropDownList = Nothing
+    Public myLiteral As Literal = Nothing
+    Public groupNameListBox As ListBox = Nothing
+    Public typeOfReportListBox As ListBox = Nothing
+    Public selectedUsersListBox As ListBox = Nothing
+    Public orderByRadioList As RadioButtonList = Nothing
+    Public runReportButton As Button = Nothing
+    Public downloadButton As Button = Nothing
+    Public csvDownloadButton As Button = Nothing
+    Public ddDownloadButton As Button = Nothing
+    Public ddCSVDownloadButton As Button = Nothing
+    Public userNameTextBox As TextBox = Nothing
+    Public passwordTextBox As TextBox = Nothing
+    Public loginPanel As Panel = Nothing
+    Public actionPanel As Panel = Nothing
+    Public reportSelectionPanel As Panel = Nothing
+    Public styleSheet As String = Nothing
+    Public changePasswordButton As Button = Nothing
+    Public newPasswordTextBox As TextBox = Nothing
+    Public newPasswordAgainTextBox As TextBox = Nothing
+    Public changePasswordResponseLabel As Label = Nothing
+    Public backgroundColour As String = Nothing
+    Public callTypeList As DropDownList = Nothing
+    Public summaryPanel As Panel = Nothing
+    Public extensionTextBox As TextBox = Nothing
+    Public externalNumberTextBox As TextBox = Nothing
+    Public callIdtextBox As TextBox = Nothing
+End Class
